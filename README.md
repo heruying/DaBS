@@ -8,12 +8,12 @@
 
 Versionining explanation: 
 
-	- First value = Development cycle (*x*) and stage (*p* for pre-alpha, *a* for alpha, *b* for beta and *s* for stable release) 
+- First value = Development cycle (*x*) and stage (*p* for pre-alpha, *a* for alpha, *b* for beta and *s* for stable release) 
 
-	- Second value = Number of added features in development cycle
+- Second value = Number of added features in development cycle
 
-	- Third value = Bug correction
+- Third value = Bug correction
 
 ## Additional information
 
-	Initially my idea is to create everything without the use of external tools or libraries, this may change with time depending on need.
+Initially my idea is to create everything without the use of external tools or libraries, this may change with time depending on need.
