@@ -5,9 +5,13 @@
 *Reinventing the wheel just for the fun of it*
 
 **Current version: 0p.0.0**
+
 Versionining explanation: 
+
 	- First value = Development cycle (*x*) and stage (*p* for pre-alpha, *a* for alpha, *b* for beta and *s* for stable release) 
+
 	- Second value = Number of added features in development cycle
+
 	- Third value = Bug correction
 
 ## Additional information
