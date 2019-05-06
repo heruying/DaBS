@@ -14,6 +14,11 @@ Versionining explanation:
 
 - Third value = Bug correction
 
+
+## How are posts written?
+
+With Markdown. Hah. I'll not invent some new markup language for this. I'll just implement the `https://spec.commonmark.org/0.29/`BUT I'll add someway of adding metadata (probably just some enclosing symbols that will delimit what will not be transpiled to HTML and then use a conventional "tag: value")
+
 ## Additional information
 
 Initially my idea is to create everything without the use of external tools or libraries, this may change with time depending on need.
